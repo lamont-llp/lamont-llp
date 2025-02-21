@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Lamont, a South African Fullstack Developer 👋🏼:
+# Hello World!, I'm Lamont, a Fullstack Developer from South Africa 👋🏼:
 🛜 currently working on a custom CRM system for my church: [webpage](https://www.eot-ministries.co.za)<br>👨🏼‍🎓 studied bachelor of computer & information science at IIE MSA <br>👨🏼‍💻 working as a web developer since 2019 
 
 
