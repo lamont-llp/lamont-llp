@@ -88,3 +88,18 @@ _Crafting performant fullstack solutions with passion and precision._
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake.svg" />
 </picture>
+
+## 📫 Connect With Me
+
+I'm always keen to collaborate on meaningful projects, tackle new challenges, or just geek out over clean code and good design. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamont-llp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philanderlamont@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
+📍 Based in South Africa — coding solutions that matter.  
+⚡ Let's build something great together.
+
+
