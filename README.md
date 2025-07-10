@@ -1,4 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+_Crafting performant fullstack solutions with passion and precision._
 
 # 👋🏼 Hello World, I'm Lamont — Fullstack Developer
 🛜 Currently building a custom CRM system for my church → [eot-ministries.co.za](https://www.eot-ministries.co.za)<br>
@@ -85,5 +86,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lamont-llp/lamont-llp/output/github-snake.svg" />
 </picture>
